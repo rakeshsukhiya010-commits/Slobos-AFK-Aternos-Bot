@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 100,
       "messages": [
         "HAHA THIS WORKED",
         "gey guys we and gonna gang bang",
