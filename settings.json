@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
+        "HAHA THIS WORKED",
         "gey guys we and gonna gang bang",
-        "I like to play Minecraft!"
+        "SKIBIDI"
       ]
     },
     "chat-log": true,
